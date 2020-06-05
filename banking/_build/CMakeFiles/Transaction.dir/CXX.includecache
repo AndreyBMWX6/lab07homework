@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/AndreyBMWX6/workspace/projects/lab05homework/banking/Account.h
+
+/home/andrey/AndreyBMWX6/workspace/projects/lab05homework/banking/Transaction.cpp
+Transaction.h
+/home/andrey/AndreyBMWX6/workspace/projects/lab05homework/banking/Transaction.h
+cassert
+-
+iostream
+-
+stdexcept
+-
+Account.h
+/home/andrey/AndreyBMWX6/workspace/projects/lab05homework/banking/Account.h
+
+/home/andrey/AndreyBMWX6/workspace/projects/lab05homework/banking/Transaction.h
+
