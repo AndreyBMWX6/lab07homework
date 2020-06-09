@@ -1,0 +1,5 @@
+/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/clang-cxx14/CMakeFiles/rebuild_cache.dir
+/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/clang-cxx14/CMakeFiles/edit_cache.dir
+/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/clang-cxx14/banking/CMakeFiles/rebuild_cache.dir
+/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/clang-cxx14/banking/CMakeFiles/banking.dir
+/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/clang-cxx14/banking/CMakeFiles/edit_cache.dir

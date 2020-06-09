@@ -1,0 +1,40 @@
+Start testing: Jun 09 16:12 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds/check"
+Directory: /home/andrey/AndreyBMWX6/workspace/projects/lab07homework/_builds
+"check" start time: Jun 09 16:12 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/andrey/projects/hunter/_Base/xxxxxxx/9b2c9d4/960678b/Build/GTest/Source/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 4 tests from Account
+[ RUN      ] Account.GetBalance
+[       OK ] Account.GetBalance (0 ms)
+[ RUN      ] Account.ChangeBalance
+[       OK ] Account.ChangeBalance (0 ms)
+[ RUN      ] Account.Lock
+[       OK ] Account.Lock (0 ms)
+[ RUN      ] Account.Unlock
+[       OK ] Account.Unlock (0 ms)
+[----------] 4 tests from Account (0 ms total)
+
+[----------] 1 test from Transaction
+[ RUN      ] Transaction.SaveToDataBase
+[       OK ] Transaction.SaveToDataBase (0 ms)
+[----------] 1 test from Transaction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Jun 09 16:12 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 09 16:12 MSK
